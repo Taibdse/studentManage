@@ -1,0 +1,28 @@
+form div input{
+    font-weight: 600;
+}
+
+.go-to-top-page{
+    /* width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color:yellow; */
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    /* cursor: pointer; */
+}
+
+table th:nth-of-type(2){cursor: n-resize;}
+table th:nth-of-type(3){cursor: n-resize;}
+table th:nth-of-type(4){cursor: n-resize;}
+table th:nth-of-type(5){cursor: n-resize;}
+table th:nth-of-type(6){cursor: n-resize;}
+
+canvas{
+    
+}
+.statistic-component{
+    padding-bottom: 50px;
+}
